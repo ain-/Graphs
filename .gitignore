@@ -1,0 +1,6 @@
+﻿bin/
+obj/
+.vs/
+output.txt
+*.DotSettings.user
+launchSettings.json
